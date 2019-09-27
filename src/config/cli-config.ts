@@ -18,7 +18,6 @@ export const config: IConfig = {
       styleext: null,
       prefix: null,
       skipImport: false,
-      module: 'app',
     },
     class: {
       spec: false,
@@ -40,7 +39,6 @@ export const config: IConfig = {
       spec: false,
       skipImport: false,
       routing: false,
-      routingScope: 'Child',
       commonModule: true,
     },
     pipe: {
