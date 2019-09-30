@@ -13,9 +13,11 @@ For more information see the original repository.
 2. Clone This Repository
 3. Open Terminal on repository folder
 4. npm install -g vsce
-5. vsce package (it will give you a file path)
-6. code --install-extension {fileName}
-7. Restart Code
+5. npm install -g copyfiles
+6. npm i
+7. vsce package (it will give you a file path)
+8. code --install-extension {fileName}
+9. Restart Code
 
 # Disclaimer
 
